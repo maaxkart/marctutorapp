@@ -1,0 +1,37 @@
+name: marcapptutor
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  shared_preferences: ^2.2.3
+  video_player: ^2.8.3
+  chewie: ^1.7.4
+  hmssdk_flutter: ^1.11.0
+  dio: ^5.7.0
+  permission_handler: ^11.3.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  firebase_core:
+  cloud_firestore:
+  firebase_auth:
+  firebase_messaging:
+  firebase_database:
+  intl:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "102817731735",
+    "firebase_url": "https://marcapp-aac66-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "marcapp-aac66",
+    "storage_bucket": "marcapp-aac66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102817731735:android:c2fb9abdf27607708605d2",
+        "android_client_info": {
+          "package_name": "com.tmr.marcapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmYzNUAZ-2NKfL3nXC-hJxAIlF2hSGIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102817731735:android:13dae049d79bb6068605d2",
+        "android_client_info": {
+          "package_name": "com.tmr.marcapptutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmYzNUAZ-2NKfL3nXC-hJxAIlF2hSGIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
